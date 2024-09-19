@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(coffee.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1950px 900px;
+}
+div{
+    display: inline-block;padding: 95px;
+    border: 2px solid transparent ;
+    width: 100%;
+    background: none;
+}
+#d1{
+    padding: 20px;
+    color: white;
+    font-size: 30px;
+}
+.cl{
+    padding: 15px;
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    background: none;
+}
+#co{
+    padding-right: 1100px;
+    color: white;
+    font-size: 30px;
+    background: none;
+}
+.containar {
+    
+    border: none;
+    color: white;
+    width: 1100px;
+    height: 500px;
+    background: none;
+    float: left;
+    font-size: 50px;
+    /* padding-top: 20px; */
+    margin-top: 150px;
+}
+p {
+    background: none;
+    font-size: 30px;
+    padding: 20px;
+}
+.login{
+    border: 2px solid transparent;
+    color: white;
+    background: none;
+float: right;
+width: 700px;
+height: 700px;
+margin-top: 50px;
+text-align: center;
+
+}
+#get{
+    border: 2px solid white;
+    border-radius: 30px;
+    color: white;
+    background: none;
+    font-size: 20px;
+    padding: 10px;
+    width: 200px;
+    
+}
+h3{
+    background: none;
+    font-size: 80px;
+}
+h2{
+    background: none;
+padding: 40px;
+font-size: 50px;
+}
+
+input{
+    background: none;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+    width: 400px;
+    border:none;
+}
+#but{
+background:rgb(78, 43, 19);
+text-align: center;
+font-size: 25px;
+border-radius: 40px;
+border:  2px solid rgb(77, 40, 14);
+padding: 10px;
+width: 500px;
+color: white;
+}
+.b1{
+    border: 2px solid transparent;
+    padding: 1px;
+    margin-top: 10px;
+    color: white;
+    background: none;
+    font-size: 20px;
+}
+.bm{
+    border:2px solid transparent;
+    padding-right: 100px;
+    margin-right: 50px;
+    color: white;
+    background: none;
+    font-size: 20px;
+    
+}
+.bf{
+    border: 2px solid transparent;
+    color: white;
+    /* padding-left: 100px; */
+margin-left: 40px;
+background: none;
+font-size: 20px;
+}
+
+i{
+    background: none;
+}
+.icon{
+    background: none;
+    padding: 10px;
+    border: 2px solid white;
+    /* display: inline; */
+    width: 500px;
+    border-radius: 40px;
+    
+}
+.icon2{
+    background: none;
+    padding: 10px;
+    border: 2px solid white;
+    width: 500px;
+    border-radius: 40px;
+    /* display: inline; */
+}
+ /* .text{
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 500px ;
+    display: inline-block;
+}  */
